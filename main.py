@@ -1,5 +1,6 @@
-# Author: Kris Armstrong
+# Author: Kris Armstrong, CISSP
 # Date: July 26, 2021
+#
 
 # This is a python script that will calculate the:
 # Area of a Square or Rectangle
